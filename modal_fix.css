@@ -1,0 +1,4 @@
+/* --- Disable button movement in modals --- */
+.modal-content .btn-custom:hover {
+    transform: none !important;
+}
